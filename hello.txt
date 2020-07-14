@@ -1,3 +1,5 @@
 Hi Neha,
 
 I am inside the git and now job will trigger and deply the code on tomcat server
+
+adding the changes after installing the sonarqube
