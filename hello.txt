@@ -7,3 +7,5 @@ adding new changes
 adding one more line
 
 added one line
+
+running sonarqube
